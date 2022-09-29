@@ -41,7 +41,7 @@ These headers should all have section links.
 
 ## Relative Links
 
-Here is a section link to the [readme](README.md). 
+Here is a relative link to the [readme](README.md). 
 
 ## Images
 
